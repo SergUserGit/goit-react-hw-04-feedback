@@ -1,0 +1,19 @@
+.optionsList {
+
+  margin-top: 0;
+  margin-bottom: 40px;
+
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  padding-left: 20px;
+}
+
+.optionsButton {
+  padding: 6px 25px;
+  background-color: #FFF;
+  font-weight: 500;
+  cursor: pointer;
+  font-size: 25px;
+  border: 2px solid #D3D3D3;
+}
